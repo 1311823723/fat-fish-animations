@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "license": "CC-BY-NC-SA-4.0",
+  "outfits": [
+    {
+      "id": "whale_knit",
+      "name": "鲸鱼针织套装（试验）",
+      "manifest": "outfits/whale_knit/outfit.json",
+      "preview": "outfits/whale_knit/preview-08f679ecc24b.webp",
+      "actions": 16,
+      "inspiration": "基于用户提供的服装参考制作；设计作者待补充"
+    },
+    {
+      "id": "whale_hood",
+      "name": "鲸鱼兜帽冬装",
+      "manifest": "outfits/whale_hood/outfit.json",
+      "preview": "outfits/whale_hood/preview-8b2234ee2774.webp",
+      "actions": 16,
+      "inspiration": "基于用户提供的服装参考制作；设计作者待补充"
+    },
+    {
+      "id": "cream_hoodie",
+      "name": "橙星奶油卫衣",
+      "manifest": "outfits/cream_hoodie/outfit.json",
+      "preview": "outfits/cream_hoodie/preview-a6c97c604710.webp",
+      "actions": 16,
+      "inspiration": "Claude 娘服装 COS"
+    },
+    {
+      "id": "cat_paw",
+      "name": "蓝绒猫爪套装",
+      "manifest": "outfits/cat_paw/outfit.json",
+      "preview": "outfits/cat_paw/preview-1560ba678cec.webp",
+      "actions": 16,
+      "inspiration": "《怪物猎人》呆猫 COS"
+    },
+    {
+      "id": "whale_pajamas",
+      "name": "浅蓝鲸鱼睡衣",
+      "manifest": "outfits/whale_pajamas/outfit.json",
+      "preview": "outfits/whale_pajamas/preview-91793fbcb98d.webp",
+      "actions": 16,
+      "inspiration": "基于用户提供的服装参考制作；设计作者待补充"
+    }
+  ],
+  "extensions": [
+    {
+      "id": "maid-extra",
+      "name": "经典女仆装扩展动作",
+      "manifest": "extensions/maid-extra/animations.json",
+      "actions": 5
+    }
+  ]
+}

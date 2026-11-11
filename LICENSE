@@ -1,0 +1,18 @@
+Artwork and character-derived assets: CC BY-NC-SA 4.0
+
+The artwork in outfits/ and extensions/ is a non-commercial, unofficial fan work.
+The contributions that this project is entitled to license are provided under
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Give appropriate credit, link to the license, indicate changes, do not use the
+material for commercial purposes, and distribute adaptations under the same license.
+See ATTRIBUTION.md for the original character, source animation and costume credits.
+Original character, costume and trademark rights remain with their respective owners;
+this notice does not claim permission or ownership over third-party rights.
+
+Preview and supporting code, including scripts/ and tests/, are licensed separately
+under MIT; see LICENSE-CODE. The upstream notice is retained verbatim in
+third_party/UPSTREAM_ASSET_LICENSE.txt with its original scope.

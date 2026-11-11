@@ -1,0 +1,33 @@
+{
+  "id": "maid-extra",
+  "name": "经典女仆装扩展动作",
+  "actions": {
+    "read": {
+      "file": "read-v1.webp",
+      "fps": 3,
+      "frames": 12
+    },
+    "sing": {
+      "file": "sing-v1.webp",
+      "frames": 9,
+      "fps": 3
+    },
+    "eat_rice": {
+      "file": "eat_rice-v1.webp",
+      "frames": 9,
+      "fps": 3
+    },
+    "headpat": {
+      "file": "headpat-v1.webp",
+      "frames": 7,
+      "fps": 4,
+      "once": true
+    },
+    "spin": {
+      "file": "spin-v1.webp",
+      "frames": 9,
+      "fps": 8,
+      "once": true
+    }
+  }
+}

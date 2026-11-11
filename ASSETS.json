@@ -1,0 +1,905 @@
+{
+  "algorithm": "sha256",
+  "files": [
+    {
+      "path": "extensions/maid-extra/animations.json",
+      "bytes": 565,
+      "sha256": "e283406d256b4cd8eb76165c8d6836e084d50bfbbfc6b1e6983c12a296ba6d35"
+    },
+    {
+      "path": "extensions/maid-extra/eat_rice-v1.webp",
+      "bytes": 267082,
+      "sha256": "54cc5f51522bedb25b0b2bd1143cfefe8df03aea4094c00962655c8221be5754"
+    },
+    {
+      "path": "extensions/maid-extra/headpat-v1.webp",
+      "bytes": 265904,
+      "sha256": "4db0e9dc0cd4c2c03a7f14edcb4d2259f7c2a59c54b60eb61c43b6a8054df22a"
+    },
+    {
+      "path": "extensions/maid-extra/read-v1.webp",
+      "bytes": 349532,
+      "sha256": "9830624559862f0b7faa9f32e80e4df1723b2681987d87f07f287eab4263462e"
+    },
+    {
+      "path": "extensions/maid-extra/sing-v1.webp",
+      "bytes": 272964,
+      "sha256": "0d54fe6a133f17e2d5bc4ae3ae5c2795f7b633a9fcf3c82f75db0980568941d8"
+    },
+    {
+      "path": "extensions/maid-extra/spin-v1.webp",
+      "bytes": 322212,
+      "sha256": "28b7b17493ae2ba7a22b725e37b6d44a9ef0ce4ed161c30db2cb1dbef1700f57"
+    },
+    {
+      "path": "outfits/cat_paw/eat_rice-runtime-833cc6138b7b.webp",
+      "bytes": 427934,
+      "sha256": "d9f7a6188b3735c760731a8d52d590ea6e364d895de0450309816326bcce92ec"
+    },
+    {
+      "path": "outfits/cat_paw/eat_rice.png",
+      "bytes": 1959114,
+      "sha256": "833cc6138b7b7b46ec9cc579c464928f7f6b157a15db67b42b31b488b27e3e1a"
+    },
+    {
+      "path": "outfits/cat_paw/eat_taiyaki-runtime-daa46b9a50e1.webp",
+      "bytes": 437678,
+      "sha256": "f0eb23d6bdd971f4397d0b6035bc9568ad9a2c062050f8918a3cd92cc36c1f7e"
+    },
+    {
+      "path": "outfits/cat_paw/eat_taiyaki.png",
+      "bytes": 2067105,
+      "sha256": "daa46b9a50e1f6fe4731b4b4ca363fa13a5a2c182d4bb7ab38efa8c5e57b61eb"
+    },
+    {
+      "path": "outfits/cat_paw/expr_angry-runtime-f14d3d255e3b.webp",
+      "bytes": 406682,
+      "sha256": "34da8be5d979c8ed3a7f71563acc7150e845429722210fc129e1f22b63035c0f"
+    },
+    {
+      "path": "outfits/cat_paw/expr_angry.png",
+      "bytes": 1878673,
+      "sha256": "f14d3d255e3b9aab2bd80eea8841350158438b14168dd4fd5b48d962801f0c1f"
+    },
+    {
+      "path": "outfits/cat_paw/expr_sad-runtime-a0e1a85b3d94.webp",
+      "bytes": 410018,
+      "sha256": "df5abc933fa9d331889931a272ee3da31aa47f94b9d02cb2a2d300f54b8adc9f"
+    },
+    {
+      "path": "outfits/cat_paw/expr_sad.png",
+      "bytes": 1887888,
+      "sha256": "a0e1a85b3d94133a25a39ad2b71db5a5ff99b2969b6fcf50792c1bd8a9d464cb"
+    },
+    {
+      "path": "outfits/cat_paw/expr_sleepy-runtime-55237b7c6400.webp",
+      "bytes": 385852,
+      "sha256": "53abbdf3d0a1dbd28eef91450ecfeead12fcd75f76a4f574ea171db4a5e2bb3b"
+    },
+    {
+      "path": "outfits/cat_paw/expr_sleepy.png",
+      "bytes": 1815113,
+      "sha256": "55237b7c640033394591fdf50b4b30929aaa21d47f43a39a5bd9d21340f484f0"
+    },
+    {
+      "path": "outfits/cat_paw/expr_smile-runtime-5cf8386385fb.webp",
+      "bytes": 428442,
+      "sha256": "8fca459f664b617e578b3c83ecdc5d855e6599ff30f2f17aab60e87b48d2e777"
+    },
+    {
+      "path": "outfits/cat_paw/expr_smile.png",
+      "bytes": 2027264,
+      "sha256": "5cf8386385fb32da89431eea75ac127d258561f76f67ab167ebd80a1a9ddb8e7"
+    },
+    {
+      "path": "outfits/cat_paw/headpat-runtime-146e9577ee56.webp",
+      "bytes": 423128,
+      "sha256": "e56ac3cab0d2ed9a9c8845841791ed4bb98e68ce9cdf3f58c3f457fe258a272b"
+    },
+    {
+      "path": "outfits/cat_paw/headpat.png",
+      "bytes": 2010987,
+      "sha256": "146e9577ee56145095a29a344dfb0920bd51e74bd1a30447c79b627f02033e0f"
+    },
+    {
+      "path": "outfits/cat_paw/idle-runtime-50aa6dc3222b.webp",
+      "bytes": 400968,
+      "sha256": "24efa94595274da80f470a998f25c5c3e29873465b5e395413e74ffaaba745bd"
+    },
+    {
+      "path": "outfits/cat_paw/idle.png",
+      "bytes": 1787998,
+      "sha256": "50aa6dc3222bc317bf6f7223f35e54201a0ac329af36634578d7068a789d8652"
+    },
+    {
+      "path": "outfits/cat_paw/outfit.json",
+      "bytes": 5219,
+      "sha256": "67b45e394f5b19c81bc89254a2354ad7c00c0c423198dcfd6aaa1ec69d5a0400"
+    },
+    {
+      "path": "outfits/cat_paw/preview-1560ba678cec.webp",
+      "bytes": 24628,
+      "sha256": "69e9b8f798c93fe4a8e666d860d7b7d33dac38251f5c09656955e4ff62aef0e1"
+    },
+    {
+      "path": "outfits/cat_paw/read-runtime-36df455da654.webp",
+      "bytes": 416878,
+      "sha256": "560c351dd2c9a329c260132c756abf5ae099f417e9ac0f4f7cfad3b92d6b58c0"
+    },
+    {
+      "path": "outfits/cat_paw/read.png",
+      "bytes": 2007553,
+      "sha256": "36df455da654c3318785e9b40092b35e0c0a26df563abc357f544b995f536adf"
+    },
+    {
+      "path": "outfits/cat_paw/reference.png",
+      "bytes": 1473555,
+      "sha256": "1560ba678ceccbc416223e470a8971e20f7c5606803275fa62e3b3eb8a90b3f5"
+    },
+    {
+      "path": "outfits/cat_paw/sing-runtime-bf657d584dac.webp",
+      "bytes": 411886,
+      "sha256": "8e4281b41c9b1cc0a953c7d1212f9f46ba1be38ad0caed4712eb4a7ad3211416"
+    },
+    {
+      "path": "outfits/cat_paw/sing.png",
+      "bytes": 1889651,
+      "sha256": "bf657d584dac1777144ffe2e810d9bc28793053439b2f3b52a306081a645cab9"
+    },
+    {
+      "path": "outfits/cat_paw/sleep-runtime-5ea94e46f2c1.webp",
+      "bytes": 239312,
+      "sha256": "9cbb9ba1d8ac7f0f9ff817bd6b3fca7bfd3e3a08dcada01ba6ca7e345afab05a"
+    },
+    {
+      "path": "outfits/cat_paw/sleep.png",
+      "bytes": 1212010,
+      "sha256": "5ea94e46f2c1f652ae4b05b6c8ae7e991616d70fada88e987f6465fb3f384ec0"
+    },
+    {
+      "path": "outfits/cat_paw/spin-runtime-1583f13d5d02.webp",
+      "bytes": 364290,
+      "sha256": "5adf4cc11b39523b116d3d12ab589fa0ddb1f16fa3846cad04e185a0c16d21b5"
+    },
+    {
+      "path": "outfits/cat_paw/spin.png",
+      "bytes": 1744834,
+      "sha256": "1583f13d5d02b54ef499ca4c1fb8024c46b90fb796c41347997b280b9f0ee62a"
+    },
+    {
+      "path": "outfits/cat_paw/tea-runtime-18d8693b677d.webp",
+      "bytes": 438768,
+      "sha256": "fec9b4d1afd2845f8df11e533abbaebf2fdd0eaa068af6c2e56d795753f8af14"
+    },
+    {
+      "path": "outfits/cat_paw/tea.png",
+      "bytes": 2059832,
+      "sha256": "18d8693b677dfd77ee1bb3ede4206ffaeada574ad3c6f7ed00b2fcc9784421dc"
+    },
+    {
+      "path": "outfits/cat_paw/wake-runtime-d866011ccbed.webp",
+      "bytes": 396450,
+      "sha256": "469e782b81ab91178866dbbe5feeb33393725db5ecc02858287c62e3afa04486"
+    },
+    {
+      "path": "outfits/cat_paw/wake.png",
+      "bytes": 1841754,
+      "sha256": "d866011ccbed317a690583756d59c93ab16f9b97f8cb60a4108f4820acca45d0"
+    },
+    {
+      "path": "outfits/cat_paw/walk_left-runtime-f020aff160f5.webp",
+      "bytes": 368194,
+      "sha256": "a32adb0a7eea6c03ae84697cf73a9b2b0194e0c430d59b037d276020ef60ecdc"
+    },
+    {
+      "path": "outfits/cat_paw/walk_left.png",
+      "bytes": 1732053,
+      "sha256": "f020aff160f599da28fc1e4c886ad88dba9aca50c8820861377b599656c0cf16"
+    },
+    {
+      "path": "outfits/cat_paw/walk_right-runtime-6bf57416f3e6.webp",
+      "bytes": 379868,
+      "sha256": "d61ce9d15c59d7f871d854fbb80db67c695692ab110c638d9463b6be595fa054"
+    },
+    {
+      "path": "outfits/cat_paw/walk_right.png",
+      "bytes": 1765253,
+      "sha256": "6bf57416f3e6970af1be4d25677c3e51c9ca43fdc6df06efe302f66527392030"
+    },
+    {
+      "path": "outfits/cream_hoodie/eat_rice-runtime-4edb500896da.webp",
+      "bytes": 463572,
+      "sha256": "bf8252ce26a30be03dda3d9da8ca4a8eddcbcf27848b84ead7fce5696813fc19"
+    },
+    {
+      "path": "outfits/cream_hoodie/eat_rice.png",
+      "bytes": 2042590,
+      "sha256": "4edb500896dae2aba67f40d165b5938c015dda4436cb35eaebde876a35477267"
+    },
+    {
+      "path": "outfits/cream_hoodie/eat_taiyaki-runtime-c5e4a598d99a.webp",
+      "bytes": 492068,
+      "sha256": "95b2c2193873ce3e22c1afa5b0bd951aa433d9ce9367c90ed73c0956b790f97b"
+    },
+    {
+      "path": "outfits/cream_hoodie/eat_taiyaki.png",
+      "bytes": 2182932,
+      "sha256": "c5e4a598d99a7b5fb43c6f7871ace66167adad959ca82e5b57ae0aa5fce7c1a7"
+    },
+    {
+      "path": "outfits/cream_hoodie/expr_angry-runtime-9885c2da445d.webp",
+      "bytes": 452462,
+      "sha256": "9db7957855f3dffe098ec84cd7c1bf4a4749c683b9e8c46e4cb74692ab672d3b"
+    },
+    {
+      "path": "outfits/cream_hoodie/expr_angry.png",
+      "bytes": 1965944,
+      "sha256": "9885c2da445da5d0d06cbdf210f84bf13b385b108acbaadbedab650bf6bd253c"
+    },
+    {
+      "path": "outfits/cream_hoodie/expr_sad-runtime-4c263c98a223.webp",
+      "bytes": 493490,
+      "sha256": "1dfa6f3cea27c93040e94cbd876c9f6cb58b6aa0e37db794c9e50491f39407e5"
+    },
+    {
+      "path": "outfits/cream_hoodie/expr_sad.png",
+      "bytes": 2089330,
+      "sha256": "4c263c98a2234df06490b0ff89eda0d0c5915d3aa8aabe98605ab335077e28d0"
+    },
+    {
+      "path": "outfits/cream_hoodie/expr_sleepy-runtime-a708392fe6a2.webp",
+      "bytes": 574394,
+      "sha256": "c5d1ee470b22d3729b1bb552787397597e465fe766f9b597518169e8c877880c"
+    },
+    {
+      "path": "outfits/cream_hoodie/expr_sleepy.png",
+      "bytes": 2288012,
+      "sha256": "a708392fe6a24a5370316904c3681031c2194edb95282ba3504d55e1e2af77ae"
+    },
+    {
+      "path": "outfits/cream_hoodie/expr_smile-runtime-dcddebc444a4.webp",
+      "bytes": 444920,
+      "sha256": "100121633c5115e028479d7cae3a799f00e482dfa26aa70828280f7c94c6bc23"
+    },
+    {
+      "path": "outfits/cream_hoodie/expr_smile.png",
+      "bytes": 1887800,
+      "sha256": "dcddebc444a46589122e03d31503bb26cd0e7e056b8e6a7b0faf20883a22e368"
+    },
+    {
+      "path": "outfits/cream_hoodie/headpat-runtime-2004c0277b02.webp",
+      "bytes": 440498,
+      "sha256": "083f1f860ebb0b23d3e15dd27a5047b2ffce1e1982d70fc6eb204bda67eaef2a"
+    },
+    {
+      "path": "outfits/cream_hoodie/headpat.png",
+      "bytes": 1962344,
+      "sha256": "2004c0277b0253691de4e111fc620590986cb2aab4f4513c9608072e102d79fc"
+    },
+    {
+      "path": "outfits/cream_hoodie/idle-runtime-d3f116c8150b.webp",
+      "bytes": 414718,
+      "sha256": "cef218d119ebb5bb477935d80447236882126912b1dd4f7bd07640ed5abdf909"
+    },
+    {
+      "path": "outfits/cream_hoodie/idle.png",
+      "bytes": 1760945,
+      "sha256": "d3f116c8150b699ddbf813a6828fb50c4b557715f6c2df3513a49acab7096c4f"
+    },
+    {
+      "path": "outfits/cream_hoodie/outfit.json",
+      "bytes": 5197,
+      "sha256": "217d5df0aabf6a986ffd5f403302a93ea1fac6d303385a8157abc07c8014f3e1"
+    },
+    {
+      "path": "outfits/cream_hoodie/preview-a6c97c604710.webp",
+      "bytes": 21614,
+      "sha256": "ef9b0a9da5e3446372ce729a00945c5c896f2f001716fbc510d5a60bb5fca4f0"
+    },
+    {
+      "path": "outfits/cream_hoodie/read-runtime-882d1cc18e0c.webp",
+      "bytes": 453064,
+      "sha256": "7a82e8d35e25508d448558561f6dc5f2f34f096b570e029ba1ebdb58f2fea6fa"
+    },
+    {
+      "path": "outfits/cream_hoodie/read.png",
+      "bytes": 2020570,
+      "sha256": "882d1cc18e0c6aee6402e68831581e1bf5bf7f27b20075f55d76e709b32e69e9"
+    },
+    {
+      "path": "outfits/cream_hoodie/reference.png",
+      "bytes": 1005833,
+      "sha256": "a6c97c60471080c43ee84e0429424ba91f5558ac9f659777674d0115a4c72e70"
+    },
+    {
+      "path": "outfits/cream_hoodie/sing-runtime-5258660918dd.webp",
+      "bytes": 437726,
+      "sha256": "84ec3bdf23ff68fe45661ce0fa28f7105baffb7f993c73a26baaf30bbfc16c01"
+    },
+    {
+      "path": "outfits/cream_hoodie/sing.png",
+      "bytes": 1912851,
+      "sha256": "5258660918dd85207814baf1e063b7814e5ce64eded3ae7e9c3ec690d281f405"
+    },
+    {
+      "path": "outfits/cream_hoodie/sleep-runtime-52fea8cf7480.webp",
+      "bytes": 250936,
+      "sha256": "0a68a9981ace9d3fc67a69a0426ac6b9a731f91d392b01fa71c460795eb34e88"
+    },
+    {
+      "path": "outfits/cream_hoodie/sleep.png",
+      "bytes": 1143009,
+      "sha256": "52fea8cf7480aa54c26c483195e2e91dd61c30a987b653988efe504ea17548a1"
+    },
+    {
+      "path": "outfits/cream_hoodie/spin-runtime-0494955dbdb3.webp",
+      "bytes": 402758,
+      "sha256": "b00be80aa905bca24f15d6b2492a77ee390eadd02de5a46fd93a15c924cc585f"
+    },
+    {
+      "path": "outfits/cream_hoodie/spin.png",
+      "bytes": 1850861,
+      "sha256": "0494955dbdb313a64114f9007336e7eed3933eff4b981207fc554db17cbde194"
+    },
+    {
+      "path": "outfits/cream_hoodie/tea-runtime-4cda3e8c71ac.webp",
+      "bytes": 481508,
+      "sha256": "ea0e7d7db4abc04bf86fc2e40c927f03a39d1324a2374b3e86a6e10964a71eea"
+    },
+    {
+      "path": "outfits/cream_hoodie/tea.png",
+      "bytes": 2122637,
+      "sha256": "4cda3e8c71ac7673eea25475f312d2b9741d99bb5b9ad3677fbcdc4f2429cab8"
+    },
+    {
+      "path": "outfits/cream_hoodie/wake-runtime-a245802bc87b.webp",
+      "bytes": 422260,
+      "sha256": "c833204a67f5d1623e52b552e8cb7f617617a68e59dacca1b84e3c0056aaa635"
+    },
+    {
+      "path": "outfits/cream_hoodie/wake.png",
+      "bytes": 1815520,
+      "sha256": "a245802bc87b750fbcac1d1fe16212446e3344d41ebd57040682df59286b74f1"
+    },
+    {
+      "path": "outfits/cream_hoodie/walk_left-runtime-e206f396e177.webp",
+      "bytes": 351284,
+      "sha256": "395b6b71a8de9c3635727cef2c6a14a082fb99da344f178a264572691be66066"
+    },
+    {
+      "path": "outfits/cream_hoodie/walk_left.png",
+      "bytes": 1554562,
+      "sha256": "e206f396e1772c71b13acde6449986c7b97d41dc3a9ab8a44beae138632a794e"
+    },
+    {
+      "path": "outfits/cream_hoodie/walk_right-runtime-8f6297f62af2.webp",
+      "bytes": 381026,
+      "sha256": "a69d855913e2714b2f4fd97d8529a8447efeadae97bf54112582a3bf74338ded"
+    },
+    {
+      "path": "outfits/cream_hoodie/walk_right.png",
+      "bytes": 1764714,
+      "sha256": "8f6297f62af2c5f0d03ab7894ee6567aa1efc2eef4abe4600cd3a48d01bd123c"
+    },
+    {
+      "path": "outfits/whale_hood/eat_rice-runtime-2291f38c5d6d.webp",
+      "bytes": 219372,
+      "sha256": "fe3e7b93b601fb0a4fc9a55e7259a78706003b40ebbf71cc2be79888d098e6bb"
+    },
+    {
+      "path": "outfits/whale_hood/eat_rice.png",
+      "bytes": 895349,
+      "sha256": "2291f38c5d6d1905780f6a1054bbc862c943141f3b87ba198fc5c082000803e3"
+    },
+    {
+      "path": "outfits/whale_hood/eat_taiyaki-runtime-2291f38c5d6d.webp",
+      "bytes": 219372,
+      "sha256": "fe3e7b93b601fb0a4fc9a55e7259a78706003b40ebbf71cc2be79888d098e6bb"
+    },
+    {
+      "path": "outfits/whale_hood/expr_angry-runtime-0a1d24cd50c0.webp",
+      "bytes": 377238,
+      "sha256": "c5cb1b868b024b63cfcaebc17790edb5ce17dc192e9512271515e2c01ef24afc"
+    },
+    {
+      "path": "outfits/whale_hood/expr_angry.png",
+      "bytes": 1405910,
+      "sha256": "0a1d24cd50c0ec2f4189879b318aa3effa85b9de0d562de01bd16da5ee1340ce"
+    },
+    {
+      "path": "outfits/whale_hood/expr_sad-runtime-b569616bd636.webp",
+      "bytes": 307636,
+      "sha256": "50c8005b5e297b9250c619e85868bf6e4315424b08f4a26721ac1b81aa2c45de"
+    },
+    {
+      "path": "outfits/whale_hood/expr_sad.png",
+      "bytes": 1207831,
+      "sha256": "b569616bd636c8d017f1af96c6cc2d69af161a3b5aef1ce68c872b12078d9f48"
+    },
+    {
+      "path": "outfits/whale_hood/expr_sleepy-runtime-d8e6def2efc5.webp",
+      "bytes": 300390,
+      "sha256": "0263494a586cc27682c2238e1436aa8eb98f7b34355348012a16c6cb638053f5"
+    },
+    {
+      "path": "outfits/whale_hood/expr_sleepy.png",
+      "bytes": 1206386,
+      "sha256": "d8e6def2efc529a530bb85b8980fbea7f0cd9a79bab476b94bf540bf4201ccd1"
+    },
+    {
+      "path": "outfits/whale_hood/expr_smile-runtime-360427710afc.webp",
+      "bytes": 291268,
+      "sha256": "9f89b9ea52a56327f0380328566452490dd8e315931cd4758a78d461c45ab5a0"
+    },
+    {
+      "path": "outfits/whale_hood/expr_smile.png",
+      "bytes": 1145793,
+      "sha256": "360427710afc0f9d93bb954d492ecb54a276a67264b9171c9172a5f7a376cb92"
+    },
+    {
+      "path": "outfits/whale_hood/headpat-runtime-97f41d9211e2.webp",
+      "bytes": 198512,
+      "sha256": "d764266910512d394f3061cf0f0b80c520171f5a8ccb73c1600e225471b4ad54"
+    },
+    {
+      "path": "outfits/whale_hood/headpat.png",
+      "bytes": 814189,
+      "sha256": "97f41d9211e22463522684cfdbab2b00445e581a49041fdba4bca94b14dd6be5"
+    },
+    {
+      "path": "outfits/whale_hood/idle-runtime-6e0d4877b5a0.webp",
+      "bytes": 328194,
+      "sha256": "fc9edfa0be45ed2334d820e6c4924b33f9f9e158650f6c63579ee6cdb8398b46"
+    },
+    {
+      "path": "outfits/whale_hood/idle.png",
+      "bytes": 1268691,
+      "sha256": "6e0d4877b5a0f57ed7e64e4192ba0faebbfc64000d793aafa3741b5f64d63db2"
+    },
+    {
+      "path": "outfits/whale_hood/outfit.json",
+      "bytes": 5064,
+      "sha256": "d6e1d1f2c65768d89980e2b2c5985447cfc9adac36c8984e9f76d39a7d04d2cc"
+    },
+    {
+      "path": "outfits/whale_hood/preview-8b2234ee2774.webp",
+      "bytes": 25394,
+      "sha256": "a6e7ee0c8e83145e6a6856655fcf5352a7ea57356975f535b753d257de60f9eb"
+    },
+    {
+      "path": "outfits/whale_hood/read-runtime-6054d314bef5.webp",
+      "bytes": 320544,
+      "sha256": "5c924b8d7319a9cbd3dcfd7af65411edea43ea89a5dec1e08d1e8ae9403db6e0"
+    },
+    {
+      "path": "outfits/whale_hood/read.png",
+      "bytes": 1309116,
+      "sha256": "6054d314bef5eb274c614e3746f17e4cbc2a36908791022eafb97d287581c0d7"
+    },
+    {
+      "path": "outfits/whale_hood/reference.png",
+      "bytes": 1438847,
+      "sha256": "8b2234ee2774d6fcd6304010721885c12008fdca1992fa642e0b41ea5eee3f03"
+    },
+    {
+      "path": "outfits/whale_hood/sing-runtime-ba9bc5e74c8d.webp",
+      "bytes": 239688,
+      "sha256": "fa39ae1c7d37736a1f2ea21451f016f59a6d352a1e91136123dc699306f2fc73"
+    },
+    {
+      "path": "outfits/whale_hood/sing.png",
+      "bytes": 945369,
+      "sha256": "ba9bc5e74c8d5217c079d9f877583c359032412039c290f9eceeef2ece5164b0"
+    },
+    {
+      "path": "outfits/whale_hood/sleep-runtime-8d92a83c4c18.webp",
+      "bytes": 421402,
+      "sha256": "a4dedd7042c9b432bb73a21507f5987bfaefe42a62be3a94b2e35837ab3bc469"
+    },
+    {
+      "path": "outfits/whale_hood/sleep.png",
+      "bytes": 1548193,
+      "sha256": "8d92a83c4c18a1e102918d428cb3144ef33c955c17bcff6f77db7d347ef6d670"
+    },
+    {
+      "path": "outfits/whale_hood/spin-runtime-0b8c4852547f.webp",
+      "bytes": 265078,
+      "sha256": "96269449a9e6d23dfb1fb5f0dbd18e60dbafada398780f408a7b57f09c8eaa4e"
+    },
+    {
+      "path": "outfits/whale_hood/spin.png",
+      "bytes": 994710,
+      "sha256": "0b8c4852547fc033731527f4e36606e7aaa36788d88fe240683be2fd18ab992c"
+    },
+    {
+      "path": "outfits/whale_hood/tea-runtime-5aaffb4a4ae5.webp",
+      "bytes": 357758,
+      "sha256": "3295d00c150b68fb1b908694310a65e2d54313636f06762456f13278a2c2353e"
+    },
+    {
+      "path": "outfits/whale_hood/tea.png",
+      "bytes": 1413198,
+      "sha256": "5aaffb4a4ae51fcf904265b6d8b17463ff2e87425a20f5f0c54b9338bdfc3640"
+    },
+    {
+      "path": "outfits/whale_hood/wake-runtime-63d2a479e95e.webp",
+      "bytes": 288580,
+      "sha256": "f0460878d99ac4d3209e988b1bd50f7ef296152d983eb77445b59335028eefa8"
+    },
+    {
+      "path": "outfits/whale_hood/wake.png",
+      "bytes": 1110378,
+      "sha256": "63d2a479e95eb65833bf9e546bbe79d49dc18a64a3ce2db61cea5b0da7266aa6"
+    },
+    {
+      "path": "outfits/whale_hood/walk_left-runtime-d584ca603653.webp",
+      "bytes": 172866,
+      "sha256": "405b98991fe3bd02ffb428d3870c2f43eee4d867c58cf6c7a45d92ac76da99e3"
+    },
+    {
+      "path": "outfits/whale_hood/walk_left.png",
+      "bytes": 662205,
+      "sha256": "d584ca6036534efe08d550bfc212741406e9a7bb866269d412d93a5d76276b1d"
+    },
+    {
+      "path": "outfits/whale_hood/walk_right-runtime-404350532f22.webp",
+      "bytes": 167688,
+      "sha256": "8ccfdaac7dfc4d5125b4a750829ee32a49a6cb73008fc55414215f53be04469d"
+    },
+    {
+      "path": "outfits/whale_hood/walk_right.png",
+      "bytes": 645257,
+      "sha256": "404350532f22c900e9bd61c9eb71c5c4f173e65e787df214bc8971cf08c54251"
+    },
+    {
+      "path": "outfits/whale_knit/eat_rice-runtime-6665c0465cfe.webp",
+      "bytes": 178382,
+      "sha256": "a6ac0491836f8ae9e7a43ca99a16fb5696f0053724fb50549c7831a1804c27b2"
+    },
+    {
+      "path": "outfits/whale_knit/eat_rice.png",
+      "bytes": 720932,
+      "sha256": "6665c0465cfe61a4cfba757d37484a49628d27658bc10ccb0708d866fa197875"
+    },
+    {
+      "path": "outfits/whale_knit/eat_taiyaki-runtime-6665c0465cfe.webp",
+      "bytes": 178382,
+      "sha256": "a6ac0491836f8ae9e7a43ca99a16fb5696f0053724fb50549c7831a1804c27b2"
+    },
+    {
+      "path": "outfits/whale_knit/eat_taiyaki.png",
+      "bytes": 720932,
+      "sha256": "6665c0465cfe61a4cfba757d37484a49628d27658bc10ccb0708d866fa197875"
+    },
+    {
+      "path": "outfits/whale_knit/expr_angry-runtime-18a89e404d0f.webp",
+      "bytes": 260896,
+      "sha256": "a5aa600800f14f8cf561d97998dab203d40dbc63492a28a5a7d084b3c4ba424f"
+    },
+    {
+      "path": "outfits/whale_knit/expr_angry.png",
+      "bytes": 1007346,
+      "sha256": "18a89e404d0f643726e4cdc4e964492eca76bfcbd1e7f72f1fef24723f4e983b"
+    },
+    {
+      "path": "outfits/whale_knit/expr_sad-runtime-4e197798fa7e.webp",
+      "bytes": 253576,
+      "sha256": "55e91e566a03c54ab784224a332497c56b9defd8367b215763bd19f0c57c4340"
+    },
+    {
+      "path": "outfits/whale_knit/expr_sad.png",
+      "bytes": 1015767,
+      "sha256": "4e197798fa7e6c0fd947dcfa36d164dd82792b85b600c03a68f345c32f2e375a"
+    },
+    {
+      "path": "outfits/whale_knit/expr_sleepy-runtime-512d3c617dd6.webp",
+      "bytes": 257730,
+      "sha256": "0dc949fbc43d7fac9fbf6a4cc0862acc9b30014d5c8d2b273a717de49868ba31"
+    },
+    {
+      "path": "outfits/whale_knit/expr_sleepy.png",
+      "bytes": 998752,
+      "sha256": "512d3c617dd674c6756cf594c5d72aebbe6c551defdabe26b0238e9e48951684"
+    },
+    {
+      "path": "outfits/whale_knit/expr_smile-runtime-45140cc5e62f.webp",
+      "bytes": 242008,
+      "sha256": "ef10ce53d3a0abacd9c558e2373a9482ec0522282554c1a54fbbe1d741e0b83d"
+    },
+    {
+      "path": "outfits/whale_knit/expr_smile.png",
+      "bytes": 974445,
+      "sha256": "45140cc5e62f11df5f15bf10bb849d7a5061f7c1e8528758a7262a5e922e8700"
+    },
+    {
+      "path": "outfits/whale_knit/headpat-runtime-b73b739085e6.webp",
+      "bytes": 173660,
+      "sha256": "241b4cba2d59f4dbcd2540367b9e1b97c69f62a99f310833bfc8e613767ee49f"
+    },
+    {
+      "path": "outfits/whale_knit/headpat.png",
+      "bytes": 673040,
+      "sha256": "b73b739085e6c38ab2d060554199ee8c58b5f5341649d27fed99d03dbbf0b6cd"
+    },
+    {
+      "path": "outfits/whale_knit/idle-runtime-850169151466.webp",
+      "bytes": 292888,
+      "sha256": "e796d69c37618a06105392d4d41fc6abc94a2f7139eb004675d5257acb4ada02"
+    },
+    {
+      "path": "outfits/whale_knit/idle.png",
+      "bytes": 1071890,
+      "sha256": "8501691514669f64e6c5843f217e86d7120847992813d2610863e78b28c31a2d"
+    },
+    {
+      "path": "outfits/whale_knit/outfit.json",
+      "bytes": 4995,
+      "sha256": "6e6e8174c4eb32ff2bad0e9fff54ce5b3cee6935fa153046d6808aff32c54a91"
+    },
+    {
+      "path": "outfits/whale_knit/preview-08f679ecc24b.webp",
+      "bytes": 24790,
+      "sha256": "5b88684fec8de86574c7507f576a89e0dd46fddbfaab2a244df71bfc609c5c10"
+    },
+    {
+      "path": "outfits/whale_knit/read-runtime-c65dfeb29d49.webp",
+      "bytes": 251788,
+      "sha256": "b7ef2b37e2855eea091e1fa33452725d189a349b012ae15a0fded9bb67454ef5"
+    },
+    {
+      "path": "outfits/whale_knit/read.png",
+      "bytes": 1017732,
+      "sha256": "c65dfeb29d49d8b48913a542879b92e381d5048574914bdc140a756034a7deb5"
+    },
+    {
+      "path": "outfits/whale_knit/reference.png",
+      "bytes": 1427704,
+      "sha256": "08f679ecc24b88af119ff6269741ecc0b5bac59028388ec3b842cfc3d62e3197"
+    },
+    {
+      "path": "outfits/whale_knit/sing-runtime-961567db815f.webp",
+      "bytes": 256498,
+      "sha256": "e1754f37af8b53fff9d252c2b6bb62c11fc32acd6684d4013708638192a2730b"
+    },
+    {
+      "path": "outfits/whale_knit/sing.png",
+      "bytes": 933971,
+      "sha256": "961567db815f9593a2e6d65a6ea9b16ec17884d32c390e73cda67f5f1af57a70"
+    },
+    {
+      "path": "outfits/whale_knit/sleep-runtime-f23d4d2d20eb.webp",
+      "bytes": 386934,
+      "sha256": "a1228e5b13217f6a470d1f028d55f3ae6dddb2709a6f56f7531340d985e3cb36"
+    },
+    {
+      "path": "outfits/whale_knit/sleep.png",
+      "bytes": 1405841,
+      "sha256": "f23d4d2d20ebe62caabeb77201a1db7364345c5ff90b0b46ccc71122c7b92932"
+    },
+    {
+      "path": "outfits/whale_knit/spin-runtime-e0b6d8472ed8.webp",
+      "bytes": 180938,
+      "sha256": "2e74595a32fb08e26db4bf0e7b9d882bc8dd53a6d9db18a5b0bd4ea4747ac7aa"
+    },
+    {
+      "path": "outfits/whale_knit/spin.png",
+      "bytes": 713565,
+      "sha256": "e0b6d8472ed88d68604ef4e7d4c13b8ebd6c6cdcd4ddd824f08d1160fc1ff6bb"
+    },
+    {
+      "path": "outfits/whale_knit/tea-runtime-75fc999d634b.webp",
+      "bytes": 319590,
+      "sha256": "9908fb072a7a25cce976bd5404ca0db1e93d7bedc960edc3378d02bb2050e3e1"
+    },
+    {
+      "path": "outfits/whale_knit/tea.png",
+      "bytes": 1191520,
+      "sha256": "75fc999d634bb7135600fc325835c96b7c1f067e573f7af511406915e566e4a0"
+    },
+    {
+      "path": "outfits/whale_knit/wake-runtime-eb77a6ff0e87.webp",
+      "bytes": 244904,
+      "sha256": "abb602189c5a339ce06648c1ff6d22592d78397471c0301d3685cd12d40afbd6"
+    },
+    {
+      "path": "outfits/whale_knit/wake.png",
+      "bytes": 1008424,
+      "sha256": "eb77a6ff0e877a1452a1926fb7743fdace7754f1f3c04264559366d02990ea90"
+    },
+    {
+      "path": "outfits/whale_knit/walk_left-runtime-d795f261f9c8.webp",
+      "bytes": 168920,
+      "sha256": "0e3f320bcd2fe87178fc4d855e5d8837c5e3831a1c34b1b08ab223e9e6a096db"
+    },
+    {
+      "path": "outfits/whale_knit/walk_left.png",
+      "bytes": 624979,
+      "sha256": "d795f261f9c880192145eb9ae1ad6c3260a3455569f27c2732fda7cb5e6a6512"
+    },
+    {
+      "path": "outfits/whale_knit/walk_right-runtime-085118a2171f.webp",
+      "bytes": 147804,
+      "sha256": "ea5bfa89b392ab154c478455e0dd2c92938d79d48fc82ad6c895ba56c6e45101"
+    },
+    {
+      "path": "outfits/whale_knit/walk_right.png",
+      "bytes": 568965,
+      "sha256": "085118a2171f556bcfac7345e64479c2dd1b201be03597d0eb85a28258ef8513"
+    },
+    {
+      "path": "outfits/whale_pajamas/eat_rice-runtime-18d4cd80bf80.webp",
+      "bytes": 363482,
+      "sha256": "5444303d54044a91629c48f67c11d8ac32b2bed600d14c86fb04e00e8a3875ac"
+    },
+    {
+      "path": "outfits/whale_pajamas/eat_rice.png",
+      "bytes": 1796000,
+      "sha256": "18d4cd80bf8063b8aa7453ce19f98ae968309197fc695fd526eedc561b5c09bf"
+    },
+    {
+      "path": "outfits/whale_pajamas/eat_taiyaki-runtime-41267f43807b.webp",
+      "bytes": 384858,
+      "sha256": "fc834243d1f966916a16b206c4d2e2f32fc64a5bba68211ce9ef036d9b00f9c3"
+    },
+    {
+      "path": "outfits/whale_pajamas/eat_taiyaki.png",
+      "bytes": 1820844,
+      "sha256": "41267f43807bfd647b05cef080f854f276023bf709b92834d913d8ee4d3fc84e"
+    },
+    {
+      "path": "outfits/whale_pajamas/expr_angry-runtime-b3af2b12dd5d.webp",
+      "bytes": 341914,
+      "sha256": "afe991e7ebd4e96b295e91037e44b8cd1a0c2dadc0a26a092c082fb84ff6cca2"
+    },
+    {
+      "path": "outfits/whale_pajamas/expr_angry.png",
+      "bytes": 1572374,
+      "sha256": "b3af2b12dd5d708b2d357f2b8f4f5042e55accd726678dd6ecc6725bdfccfb31"
+    },
+    {
+      "path": "outfits/whale_pajamas/expr_sad-runtime-b18b002f47af.webp",
+      "bytes": 345160,
+      "sha256": "83be28c838ece32e3ea762462f106ba6424626dc853f0c65faefab585f659e73"
+    },
+    {
+      "path": "outfits/whale_pajamas/expr_sad.png",
+      "bytes": 1610567,
+      "sha256": "b18b002f47afa6af890a2151a143e22ae02e5358245d41b9d280c89b26d2096d"
+    },
+    {
+      "path": "outfits/whale_pajamas/expr_sleepy-runtime-d2bb9b0cb405.webp",
+      "bytes": 334786,
+      "sha256": "70b7ba61a42b582d54caedd524f8929bb015e853911b61f56555bcdfea5619ea"
+    },
+    {
+      "path": "outfits/whale_pajamas/expr_sleepy.png",
+      "bytes": 1656878,
+      "sha256": "d2bb9b0cb405d0c302f80462f22cc0a16bd32ddffbed09ed7cbca41fdb98b1c2"
+    },
+    {
+      "path": "outfits/whale_pajamas/expr_smile-runtime-c063aa4b4e7b.webp",
+      "bytes": 343966,
+      "sha256": "000887786b3731bf5a3e626ab0d6e444925f288408961e5d4defb01fcf066c09"
+    },
+    {
+      "path": "outfits/whale_pajamas/expr_smile.png",
+      "bytes": 1614892,
+      "sha256": "c063aa4b4e7bd4e3fcb8d6a8e54ea0a07ebb7f2e7796051e218dbaab926c2bda"
+    },
+    {
+      "path": "outfits/whale_pajamas/headpat-runtime-e3ac90afc863.webp",
+      "bytes": 331602,
+      "sha256": "a6e05e58fbedc2a8d2cf1bde34529a43b70e0753beb41275110a83e4353ff556"
+    },
+    {
+      "path": "outfits/whale_pajamas/headpat.png",
+      "bytes": 1568128,
+      "sha256": "e3ac90afc863813ca96f96ba66984b8dc5e4631b97c6f3cced386119db621cdf"
+    },
+    {
+      "path": "outfits/whale_pajamas/idle-runtime-99de30dbfab7.webp",
+      "bytes": 350240,
+      "sha256": "db76eae0a860ac9de4a172932a768e433f9f033658ae9ca96b53a1aa2fbfffe8"
+    },
+    {
+      "path": "outfits/whale_pajamas/idle.png",
+      "bytes": 1646611,
+      "sha256": "99de30dbfab7d20221251b495a4fb9d1e6b5c6a0c0c1f1983e7ceb5d53ba460c"
+    },
+    {
+      "path": "outfits/whale_pajamas/outfit.json",
+      "bytes": 5142,
+      "sha256": "68e720251b1d1c3ecac2f73e2b4edc4ce1d6fda8fb27847687d8889b42c31a0c"
+    },
+    {
+      "path": "outfits/whale_pajamas/preview-91793fbcb98d.webp",
+      "bytes": 24962,
+      "sha256": "abdc73912bf5707a7a153153b1ccc88e0981e94e2c55702b1312d00d808ccbd9"
+    },
+    {
+      "path": "outfits/whale_pajamas/read-runtime-e7b2a8590cfc.webp",
+      "bytes": 356106,
+      "sha256": "2a35ea94b8a35d6d152ed6f79f2cb5d1af9f572a04e915985dec3c8c2e0a6e04"
+    },
+    {
+      "path": "outfits/whale_pajamas/read.png",
+      "bytes": 1750219,
+      "sha256": "e7b2a8590cfcc80440f547535b23d9cf1e6ee35576a390ee6242a21f08b70537"
+    },
+    {
+      "path": "outfits/whale_pajamas/reference.png",
+      "bytes": 1395221,
+      "sha256": "91793fbcb98d01573a9a8df1815e45d4ab33e58747f9ca6f1e30308fd55b5b3f"
+    },
+    {
+      "path": "outfits/whale_pajamas/sing-runtime-02c82705a800.webp",
+      "bytes": 374972,
+      "sha256": "a10cc3b2697e556a98e9f836f630782fd846de72fe8970f9077d455ceb121ccf"
+    },
+    {
+      "path": "outfits/whale_pajamas/sing.png",
+      "bytes": 1700030,
+      "sha256": "02c82705a800a601d99af99b0b06702694eafb278cac7d7618ae13c9c9e4f141"
+    },
+    {
+      "path": "outfits/whale_pajamas/sleep-runtime-4af5e6f77ce6.webp",
+      "bytes": 278694,
+      "sha256": "c75429532fdf061f1eb83a635fa1a5f640bad1fb16b4ec696dbbe08e522e01f1"
+    },
+    {
+      "path": "outfits/whale_pajamas/sleep.png",
+      "bytes": 1349306,
+      "sha256": "4af5e6f77ce6b2753c2a4960f2381038c340da2e2d57e62fb6c896a552d7628c"
+    },
+    {
+      "path": "outfits/whale_pajamas/spin-runtime-0a99d1042309.webp",
+      "bytes": 311228,
+      "sha256": "ed6af3392274ce7c5c7dd0ffc35866bd783ed96a1a7c3e435653c17c96194d6b"
+    },
+    {
+      "path": "outfits/whale_pajamas/spin.png",
+      "bytes": 1502577,
+      "sha256": "0a99d1042309774b14285d8e05960fc29df29651043984b15962a1e90bc1feef"
+    },
+    {
+      "path": "outfits/whale_pajamas/tea-runtime-3091d2cd49b7.webp",
+      "bytes": 361610,
+      "sha256": "0fd85de4d8c94bf1db894a55bdb2b10fc7cea387f4375ca1d1fdff7eaf66b4ab"
+    },
+    {
+      "path": "outfits/whale_pajamas/tea.png",
+      "bytes": 1682230,
+      "sha256": "3091d2cd49b705e13b6d8a0de6b85c783511a040f141b6d9579363c3be6094b8"
+    },
+    {
+      "path": "outfits/whale_pajamas/wake-runtime-c8960b0d2bea.webp",
+      "bytes": 365816,
+      "sha256": "3a775229f96ead7145dca06c526c4082b7012fc41e818c3bbe12de5d15a189ac"
+    },
+    {
+      "path": "outfits/whale_pajamas/wake.png",
+      "bytes": 1673261,
+      "sha256": "c8960b0d2beab2d9e4726c2cb5963740287fd580794c44859983bd14f18efe08"
+    },
+    {
+      "path": "outfits/whale_pajamas/walk_left-runtime-ac82126ea38b.webp",
+      "bytes": 296886,
+      "sha256": "bfbfcbad56ca73700900e6f5801ee082c0df10b5cfeb27ec2fae48c0599f625d"
+    },
+    {
+      "path": "outfits/whale_pajamas/walk_left.png",
+      "bytes": 1417907,
+      "sha256": "ac82126ea38b2179e97f78e8c89c2bc4e4db347db7d127ce386d593641a496cd"
+    },
+    {
+      "path": "outfits/whale_pajamas/walk_right-runtime-18a4a1a35c61.webp",
+      "bytes": 300200,
+      "sha256": "cd3fa166996a1e8d338d3baeb861c33f6befd02c6eab2d09aa33f8a272b303f6"
+    },
+    {
+      "path": "outfits/whale_pajamas/walk_right.png",
+      "bytes": 1435428,
+      "sha256": "18a4a1a35c615519a16186f20eeb48a0b18699c7ec6b580896dad92f3be2372d"
+    }
+  ]
+}
