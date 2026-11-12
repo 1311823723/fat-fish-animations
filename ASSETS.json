@@ -113,8 +113,8 @@
     },
     {
       "path": "outfits/cat_paw/outfit.json",
-      "bytes": 5219,
-      "sha256": "67b45e394f5b19c81bc89254a2354ad7c00c0c423198dcfd6aaa1ec69d5a0400"
+      "bytes": 5300,
+      "sha256": "3c016865338ace257eabfccadb63d3f05b72696501840b997d8065a3a87135af"
     },
     {
       "path": "outfits/cat_paw/preview-1560ba678cec.webp",
@@ -288,8 +288,8 @@
     },
     {
       "path": "outfits/cream_hoodie/outfit.json",
-      "bytes": 5197,
-      "sha256": "217d5df0aabf6a986ffd5f403302a93ea1fac6d303385a8157abc07c8014f3e1"
+      "bytes": 5278,
+      "sha256": "9f5d33671496be4ed2623ed03d61b6f3c71465fe23b4d6278118a6e656b412d1"
     },
     {
       "path": "outfits/cream_hoodie/preview-a6c97c604710.webp",
@@ -458,8 +458,8 @@
     },
     {
       "path": "outfits/whale_hood/outfit.json",
-      "bytes": 5064,
-      "sha256": "d6e1d1f2c65768d89980e2b2c5985447cfc9adac36c8984e9f76d39a7d04d2cc"
+      "bytes": 5142,
+      "sha256": "5f3bbbba0fc190c4fa819e8a344cbf6a4aa312006687fbeb65f7f841c9d605f3"
     },
     {
       "path": "outfits/whale_hood/preview-8b2234ee2774.webp",
@@ -633,8 +633,8 @@
     },
     {
       "path": "outfits/whale_knit/outfit.json",
-      "bytes": 4995,
-      "sha256": "6e6e8174c4eb32ff2bad0e9fff54ce5b3cee6935fa153046d6808aff32c54a91"
+      "bytes": 5073,
+      "sha256": "44cfd93d3e8dc148911a4b9c08eddaf2c37f244b20f7ec61ca1414d22293a945"
     },
     {
       "path": "outfits/whale_knit/preview-08f679ecc24b.webp",
@@ -808,8 +808,8 @@
     },
     {
       "path": "outfits/whale_pajamas/outfit.json",
-      "bytes": 5142,
-      "sha256": "68e720251b1d1c3ecac2f73e2b4edc4ce1d6fda8fb27847687d8889b42c31a0c"
+      "bytes": 5220,
+      "sha256": "ce88452ee9332e9e7616f01ada80f65b4d1651e44a212480eb40635ba0c4de62"
     },
     {
       "path": "outfits/whale_pajamas/preview-91793fbcb98d.webp",

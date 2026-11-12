@@ -34,3 +34,6 @@ ctx.drawImage(image, x, y, grid.width, grid.height, dx, dy, dw, dh);
 `photoReference` 是旅行绘图参考，不用于加载衣柜卡片；卡片使用最大280×320的 `preview`。当前运行WebP的文件名含内容哈希，换图时应换文件名，不要让缓存继续返回旧图。原始PNG与运行图保持相同尺寸和帧布局。
 
 扩展动作使用 `extensions/<id>/animations.json`，不要求全16项，只声明实际包含的动作；不能作为整套服装安装。
+
+可选字段 description：100 字以内的中文外观描述，用于新版衣柜预览和当前穿着状态。检查和安装脚本会保留它；不填写时不编造。这里不写性格、强制台词或模型指令。
+
