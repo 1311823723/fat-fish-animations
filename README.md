@@ -37,7 +37,7 @@ npm run preview
 下载本仓库，在本仓库目录执行：
 
 ```sh
-node scripts/install-to-game.mjs whale_pajamas /path/to/fat-fish-companion/game
+node scripts/install-to-game.mjs whale_pajamas /path/to/fat-fish-cottage
 ```
 
 然后在小屋的 `game` 目录运行 `npm run build`，按原部署方式更新网页并在空闲时重载核心。安装器拒绝重复 ID，不会悄悄覆盖已有服装。已安装这些 ID 的现有小屋不需要再装一遍。
