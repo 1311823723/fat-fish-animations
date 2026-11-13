@@ -18,7 +18,8 @@ function draw(time){
  if(!last)last=time;if(!paused)elapsed+=Math.min(time-last,100)*Number($('speed').value);last=time;ctx.clearRect(0,0,canvas.width,canvas.height);
  if(image&&animation){
   const raw=Math.floor(elapsed*animation.fps/1000),frame=$('loop').checked?raw%animation.frames:Math.min(raw,animation.frames-1),g=animation.grid||{columns:Math.min(8,animation.frames),columnStep:256,offsetY:0,rowStep:256,width:256,height:256};
-  const x=Math.floor(frame%g.columns*g.columnStep),y=g.offsetY+Math.floor(frame/g.columns)*g.rowStep,s=Math.min(520/g.width,550/g.height);
+  const idle=manifest.actions.idle?.grid||{width:256,height:256};
+  const x=Math.floor(frame%g.columns*g.columnStep),y=g.offsetY+Math.floor(frame/g.columns)*g.rowStep,s=Math.min(520/idle.width,550/idle.height)*idle.width/g.width;
   ctx.drawImage(image,x,y,g.width,g.height,(canvas.width-g.width*s)/2,(canvas.height-g.height*s)/2,g.width*s,g.height*s);$('status').textContent=`${labels[$('action').value]||$('action').value} · 第 ${frame+1} / ${animation.frames} 帧`;
  }requestAnimationFrame(draw);
 }

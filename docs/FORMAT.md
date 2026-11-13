@@ -2,6 +2,8 @@
 
 整套服装在 `outfits/<id>/outfit.json` 描述，`id` 是稳定标识，改展示名称不要改它。`actions` 必须覆盖检查脚本中的16项动作，`file`、`preview`、`photoReference` 都是包内文件名，不能含目录或 `..`。
 
+每帧左右必须保留透明边距；检查器逐帧拒绝可见触边像素，整个图集四角透明不代表各帧安全。已修复的紧密单行图集使用 `grid.padding: 64`，宽度、步长和画布一并更新。绘图时尽量让各姿势从一开始就互相分开，后处理不能补回源图里已经缺失的身体细节。整理方法见小屋仓库的 `docs/SPRITE_FRAME_BOUNDS.md`。
+
 ```json
 {
   "file": "idle-runtime-contenthash.webp",
